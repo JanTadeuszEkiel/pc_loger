@@ -1,5 +1,5 @@
 {
-    "name": "PC_Loger",
+    "name": "PC_Reader",
     "description": "",
     "dependencies": {
         "core": "*",
